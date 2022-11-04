@@ -2,11 +2,9 @@
 
 # Price list
 
-1. photo
-    * photo with animal
-    * photo with humans
-2. video
-3. photo lacation
+1. [photo](#photograps)
+2. [video](#photograps)
+3. [photo location](#locations)
 
 *photo location*
 
@@ -35,4 +33,3 @@
  >Great photography is about depth of feeling, not depth of field
 
  >You don't photograph, you creates
- 
