@@ -8,3 +8,6 @@
 2. video
 3. photo lacation
 
+*photo location*
+
+**Photo on the street**
