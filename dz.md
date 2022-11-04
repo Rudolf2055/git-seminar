@@ -32,4 +32,7 @@
  makeup 2000
  ```
 
+ >Great photography is about depth of feeling, not depth of field
+
+ >You don't photograph, you creates
  
