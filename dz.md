@@ -11,3 +11,12 @@
 *photo location*
 
 **Photo on the street**
+
+---
+### Locations
++ water
+     * on pool
+     * on river
+     * on sea
++ earth
++ mounth
