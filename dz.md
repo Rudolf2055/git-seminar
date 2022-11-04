@@ -23,3 +23,13 @@
 
 ---
 [ссылка на фотостудию](https://www.studiorent.ru/studios/)
+
+### Price list
+
+```
+ Studia 1500
+ photograph 5000
+ makeup 2000
+ ```
+
+ 
