@@ -33,3 +33,7 @@
  >Great photography is about depth of feeling, not depth of field
 
  >You don't photograph, you creates
+
+---
+# photo examples
+![taski](https://klike.net/uploads/posts/2020-08/1597214538_3.jpg)
